@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics, data science, and data engineering
 - 🌱 I’m currently learning how to create queries using SQL, Machine Learning models using Python, and visualizing data in Tableau
 - 💞️ I’m looking to collaborate on projects to build a portfolio and grow my overall knowlege in data analysis
-- 📫 How to reach me ...
+- 📫 How to reach me jadelwill3@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm also learning Japanese and know just enough to hold a very basic conversation!
 
